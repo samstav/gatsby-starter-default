@@ -1,5 +1,5 @@
 /*var deployUrl = "https://westegg.site/?repoUrl=";*/
-var deployUrl = "https://westegg.io/?repoUrl=";
+var deployUrl = "https://westegg.site/?repoUrl=";
 var suffix = ".git";
 
 if (window.location.hostname.indexOf("github.com") !== -1) {
